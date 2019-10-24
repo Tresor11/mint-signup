@@ -1,0 +1,18 @@
+body{
+    background-color: silver;
+    margin: 20px;
+}
+.signin{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.signin button{
+    background-color:blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
