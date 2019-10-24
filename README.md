@@ -13,43 +13,7 @@
  </p>
 </p>
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
-* [About the Project](#about-the-project)
- * [Built With](#built-with)
-* [Use](#use)
-* [Roadmap](#roadmap)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-<!-- ABOUT THE PROJECT -->
-## About The Project
-This is our second Microverse Project.
-### Objective
--Getting familiar with basic HTML structure
--Getting familiar with basic CSS properties
--Getting basic understanding of HTML Forms
--Getting accustomed to remote programming enviroment
-### Assignment:
-  1. Go to Mint.com’s signup page and have a look around. The form isn’t exceptionally complicated.
-  2. Create a blank HTML document.
-  3. Plan out how the elements on the page need to be grouped together.
-  4. Lay out the empty semantic HTML elements for the major sections (form, sidebar, footer…) and make them       the proper size and alignment. It may be helpful to change their background colors while you’re           positioning them on the page. Don’t forget to use your browser’s developer tools (right click on the      page, click “inspect element”)!
-  5. Fill in those elements with the content you want to include.
-  6. Now style them to look like the real webpage.
-  7. Push your solution up to Github and you’re good to go!
-![Project Screen Shot][product-screenshot]
-### Built With
-This project was built using raw html and css, and all support necessary for using font awesome.*
-<!-- USAGE EXAMPLES -->
-## Use
-It's not a dynamic webpage, just a static one. So there is no use involved.
-<!-- ROADMAP -->
-## Roadmap
-See the [open issues](https://github.com/Tresor11/mint-signup/issues) for a list of proposed features (and known issues).
-<!-- LICENSE -->
-## License
-Distributed under the MIT License. See  LICENSE for more information.
-<!-- CONTACT -->
+
 ## Contact
 Selma Ndi - [Github profile](https://github.com/Datagirlcmr)
 <br>
