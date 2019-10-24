@@ -22,12 +22,22 @@ body{
     align-content: center;
     border: 1px solid;
 }
+.container > div{
+    width: 500px;
+}
 .logo{
     display: flex;
     justify-content: center;
     align-content: center;
     flex-direction: column;
+    width: 100%;
 
+}
+#thumb{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 .im{
     display: flex;
@@ -46,6 +56,7 @@ body{
 #thumb span{
     font-family:AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
+    margin-right:20px;
 }
 .form{
     background-color: white;
