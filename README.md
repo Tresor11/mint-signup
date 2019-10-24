@@ -2,7 +2,7 @@
 [![Issues][issues-shield]][issues-url]
 <br />
 <p align="center">
- <h3 align="center">Displaying and Inputting Data - Facu / Jose</h3>
+ <h3 align="center">Displaying and Inputting Data - TRESOR / SELMA</h3>
  <p align="center">
    Second Microverse Project - HTML Forms
    <br />
@@ -18,7 +18,7 @@
 Selma Ndi :woman: - [Github profile](https://github.com/Datagirlcmr)
 <br>
 Tresor Bireke :man: - [Github profile](https://github.com/Tresor11)
-Project Link: [Project repo](https://github.com/Tresor11/mint-signup/tree/features)
+Project Link :envelope:: [Project repo](https://github.com/Tresor11/mint-signup/tree/features)
 <!-- ACKNOWLEDGEMENTS -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
