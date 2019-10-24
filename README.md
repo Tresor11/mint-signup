@@ -9,15 +9,15 @@
    <a href="https://github.com/Tresor11/mint-signup/tree/features"><strong>Explore the docs »</strong></a>
    <br />
    <br />
-   <a href="https://raw.githack.com/Tresor11/mint-signup/features/index.html">View Demo</a> 
+   <a href="https://raw.githack.com/Tresor11/mint-signup/features/index.html"> :wink: View Demo </a> 
  </p>
 </p>
 <!-- TABLE OF CONTENTS -->
 
 ## Contact
-Selma Ndi - [Github profile](https://github.com/Datagirlcmr)
+Selma Ndi :woman: - [Github profile](https://github.com/Datagirlcmr)
 <br>
-Tresor Bireke - [Github profile](https://github.com/Tresor11)
+Tresor Bireke :man: - [Github profile](https://github.com/Tresor11)
 Project Link: [Project repo](https://github.com/Tresor11/mint-signup/tree/features)
 <!-- ACKNOWLEDGEMENTS -->
 
