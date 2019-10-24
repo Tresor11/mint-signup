@@ -14,16 +14,22 @@ body{
     border:1px solid #4c4c4c; 
     border-radius: 5px;
     margin-left: 10px;
+    color: white;
+}
 
+button > img{
+    width: 25%;
 }
 .container{
     display: flex;
     justify-content: center;
     align-content: center;
     border: 1px solid;
+    margin-top: 10px;
 }
 .container > div{
     width: 500px;
+    
 }
 .logo{
     display: flex;
@@ -31,7 +37,6 @@ body{
     align-content: center;
     flex-direction: column;
     width: 100%;
-
 }
 #thumb{
     width: 100%;
@@ -55,11 +60,24 @@ body{
     
 }
 #thumb span{
-    font-family:AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     margin-right:20px;
 }
 .form{
+    margin-top: 10px;
     background-color: white;
     border: 1px solid rgb(109, 106, 106);   
+}
+
+#heading{
+    text-align: center;
+    font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    display: block;
+}
+
+a{
+    text-decoration: none;
 }
