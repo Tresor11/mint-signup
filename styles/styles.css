@@ -1,14 +1,16 @@
-body{
+body {
     background-color:#ECEEF1;
     margin: 20px;
     color:rgb(92, 89, 89);
 }
-.signin{
+
+.signin {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
-.signin button{
+
+.signin button {
     background-color:#0077C5 ;
     padding-left: 10px;
     padding-right: 10px;
@@ -18,55 +20,62 @@ body{
     color: white;
 }
 
-button > img{
+button > img {
     width: 25%;
     margin-bottom: -3px;
 }
-.container{
+
+.container {
     display: flex;
     justify-content: center;
     align-content: center;
     margin-top: 10px;
 }
-.container > div{
+
+.container > div {
     width: 400px;
-    
 }
-.logo{
+
+.logo {
     display: flex;
     justify-content: center;
     align-content: center;
     flex-direction: column;
     width: 100%;
 }
-#thumb{
+
+#thumb {
     width: 100%;
     display: flex;
     justify-content: center;
     align-content: center;
 }
-.im{
+
+.im {
     display: flex;
     justify-content: center;
     align-content: center;
 }
-.im img{
+
+.im img {
     width: 150px;
 }
-#thumb img{
+
+#thumb img {
     width: 30px;
     height: 30px;
     border-radius: 400%;
     margin-right: 5px;
-    
 }
-#thumb span{
+
+#thumb span {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     margin-right:20px;
     color: rgb(92, 89, 89);
 }
-.form{
+
+.form {
     margin-top: 10px;
     background-color: white;
     display: flex;
@@ -76,21 +85,24 @@ button > img{
     border: 1px solid rgba(124, 121, 121, 0.795);
 }
 
-#heading{
+#heading {
     text-align: center;
     font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     font-weight: 400;
     display: block;
 }
-a{
+
+a {
     text-decoration: none;
 }
-#heading h1{
+
+#heading h1 {
     color:rgb(95, 93, 93);
     font-weight: 400;
 }
-.data{
+
+.data {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -98,13 +110,16 @@ a{
     color:rgb(95, 93, 93);
     margin-left: -3%;;
 }
-fieldset{
+
+fieldset {
     border: none;
 }
-input{
+
+input {
     width: 100%;
     padding: 10px;
 }
+
 .data button {
     width:110%;
     padding: 10px;
@@ -113,18 +128,19 @@ input{
     font-size: 18px;
     border: none;
     border-radius: 5px;
-
 }
-.data button > img{
+
+.data button > img {
     width: 10%;
     margin-bottom: -3px;
 }
- .form-footer {
+
+.form-footer {
      text-align: center;
      margin-left: 60px;
      margin-right: 60px;
      color: rgb(92, 89, 89);
- }
+}
 
 #small {
     margin-top: 20px;
@@ -134,11 +150,11 @@ input{
     color: rgb(92, 89, 89);
 }
 
-#small small{
+#small small {
     font-weight: 100;
 }
 
-footer{
+footer {
     text-align: center;
     margin: 10px;
     color: rgb(92, 89, 89);
