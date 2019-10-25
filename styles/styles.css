@@ -1,7 +1,7 @@
 body {
-    background-color:   #ECEEF1;
+    background-color: #ECEEF1;
     margin: 20px;
-    color:  rgb(92, 89, 89);
+    color: rgb(92, 89, 89);
 }
 
 .signin {
@@ -11,16 +11,16 @@ body {
 }
 
 .signin button {
-    background-color:#0077C5 ;
+    background-color: #0077C5;
     padding-left: 10px;
     padding-right: 10px;
-    border:1px solid #4c4c4c; 
+    border: 1px solid #4c4c4c;
     border-radius: 5px;
     margin-left: 10px;
     color: white;
 }
 
-button > img {
+button>img {
     width: 25%;
     margin-bottom: -3px;
 }
@@ -32,7 +32,7 @@ button > img {
     margin-top: 10px;
 }
 
-.container > div {
+.container>div {
     width: 400px;
 }
 
@@ -69,9 +69,9 @@ button > img {
 }
 
 #thumb span {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    margin-right:20px;
+    margin-right: 20px;
     color: rgb(92, 89, 89);
 }
 
@@ -87,7 +87,7 @@ button > img {
 
 #heading {
     text-align: center;
-    font-family: AvenirNext,Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     font-weight: 400;
     display: block;
@@ -98,7 +98,7 @@ a {
 }
 
 #heading h1 {
-    color:rgb(95, 93, 93);
+    color: rgb(95, 93, 93);
     font-weight: 400;
 }
 
@@ -107,8 +107,9 @@ a {
     display: flex;
     justify-content: center;
     align-content: center;
-    color:rgb(95, 93, 93);
-    margin-left: -3%;;
+    color: rgb(95, 93, 93);
+    margin-left: -3%;
+    ;
 }
 
 fieldset {
@@ -121,30 +122,30 @@ input {
 }
 
 .data button {
-    width:110%;
+    width: 110%;
     padding: 10px;
-    background-color:#0077C5 ;
+    background-color: #0077C5;
     color: white;
     font-size: 18px;
     border: none;
     border-radius: 5px;
 }
 
-.data button > img {
+.data button>img {
     width: 10%;
     margin-bottom: -3px;
 }
 
 .form-footer {
-     text-align: center;
-     margin-left: 60px;
-     margin-right: 60px;
-     color: rgb(92, 89, 89);
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    color: rgb(92, 89, 89);
 }
 
 #small {
     margin-top: 20px;
-    background-color:#ECEEF1;
+    background-color: #ECEEF1;
     text-align: center;
     padding: 10px;
     color: rgb(92, 89, 89);
