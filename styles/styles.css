@@ -125,6 +125,10 @@ input {
   padding: 10px;
 }
 
+.pass {
+  background: 95% url(/images/unlock.png) no-repeat;
+}
+
 .data button {
   width: 110%;
   padding: 10px;
