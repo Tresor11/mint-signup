@@ -126,7 +126,8 @@ input {
 }
 
 .pass {
-  background: 95% url(/images/unlock.png) no-repeat;
+  background: 95% url(../images/unlock.png) no-repeat;
+  border: 1px solid rgb(150, 148, 148);
 }
 
 .data button {
