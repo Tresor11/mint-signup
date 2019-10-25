@@ -2,9 +2,12 @@
 [![Issues][issues-shield]][issues-url]
 <br />
 <p align="center">
- <h3 align="center">Displaying and Inputting Data - TRESOR / SELMA</h3>
+ <h3 align="center">The Project was made by - TRESOR / SELMA</h3>
  <p align="center">
-   Second Microverse Project - HTML Forms
+   Second Microverse Project - HTML Forms</br>
+ 
+ This is a clone for the intuiti's webstite sign-up page</br>
+ It's totally responsive and semantic :relaxed:
    <br />
    <a href="https://github.com/Tresor11/mint-signup/tree/features"><strong>Explore the docs »</strong></a>
    <br />
@@ -12,6 +15,12 @@
    <a href="https://raw.githack.com/Tresor11/mint-signup/features/index.html"> :wink: View Demo </a> 
  </p>
 </p>
+<h2 align="center">Tools and Technologies Used<h2>
+ <ul>
+  <li>HTML : for markup</li>
+  <li>CSS :for tyling</li>
+  <li>Linter and Stickler :for validation</li>
+ </ul>
 <!-- TABLE OF CONTENTS -->
 
 ## Contact
