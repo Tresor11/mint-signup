@@ -1,0 +1,166 @@
+body {
+  background-color: #eceef1;
+  margin: 20px;
+  color: rgb(92, 89, 89);
+}
+
+.signin {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.signin button {
+  background-color: #0077c5;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #4c4c4c;
+  border-radius: 5px;
+  margin-left: 10px;
+  color: white;
+}
+
+button > img {
+  width: 25%;
+  margin-bottom: -3px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 10px;
+}
+
+.container > div {
+  width: 400px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+#thumb {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.im {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.im img {
+  width: 150px;
+}
+
+.data button > img {
+  width: 10%;
+  margin-bottom: -3px;
+}
+
+#thumb img {
+  width: 30px;
+  height: 30px;
+  border-radius: 400%;
+  margin-right: 5px;
+}
+
+#thumb span {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  margin-right: 20px;
+  color: rgb(92, 89, 89);
+}
+
+.form {
+  margin-top: 10px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  border: 1px solid rgba(124, 121, 121, 0.795);
+}
+
+#heading {
+  text-align: center;
+  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+#heading h1 {
+  color: rgb(95, 93, 93);
+  font-weight: 400;
+}
+
+.data {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: rgb(95, 93, 93);
+  margin-left: -3%;
+}
+
+fieldset {
+  border: none;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+.pass {
+  background: 95% url(../images/unlock.png) no-repeat;
+  border: 1px solid rgb(150, 148, 148);
+}
+
+.data button {
+  width: 110%;
+  padding: 10px;
+  background-color: #0077c5;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+}
+
+.form-footer {
+  text-align: center;
+  margin-left: 60px;
+  margin-right: 60px;
+  color: rgb(92, 89, 89);
+}
+
+#small {
+  margin-top: 20px;
+  background-color: #eceef1;
+  text-align: center;
+  padding: 10px;
+  color: rgb(92, 89, 89);
+}
+
+#small small {
+  font-weight: 100;
+}
+
+footer {
+  text-align: center;
+  margin: 10px;
+  color: rgb(92, 89, 89);
+}
