@@ -6,8 +6,8 @@
  <p align="center">
    Second Microverse Project - HTML Forms</br>
  
-                    This is a clone for the intuiti's webstite sign-up page</br>
-                     It's totally responsive and semantic :relaxed:
+                      This is a clone for the intuiti's webstite sign-up page
+                            It's totally responsive and semantic.
    <br />
    <a href="https://github.com/Tresor11/mint-signup/tree/features"><strong>Explore the docs »</strong></a>
    <br />
